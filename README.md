@@ -24,7 +24,7 @@ This Excel dashboard provides an interactive view of an **Oil & Gas downstream o
 2. Open the file in Excel.
 3. Use the **slicers** to filter the data and observe the KPI and chart updates.
 4. Explore trends, top-performing products, and depots using interactive visualizations.
-
+“To download the project, click Code → Download ZIP, or clone via Git using the link above.”
 ---
 
 *This project demonstrates the ability to transform raw operational data into actionable insights using Excel dashboards — ideal for data analyst or business analyst roles.*
